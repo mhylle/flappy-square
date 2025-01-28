@@ -1,0 +1,13 @@
+{
+      "name": "flappy-bird",
+      "version": "1.0.0",
+      "scripts": {
+            "dev": "vite"
+      },
+      "devDependencies": {
+            "vite": "^4.5.9"
+      },
+      "dependencies": {
+            "firebase": "^9.23.0"
+      }
+}
