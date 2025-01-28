@@ -4,12 +4,12 @@ import { getFirestore, doc, setDoc, getDoc } from "https://www.gstatic.com/fireb
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyDJ9gm5gtY1mzf39UhmPbp-TXdTjvnpZBY",
+  authDomain: "rotatingkids.firebaseapp.com",
+  projectId: "rotatingkids",
+  storageBucket: "rotatingkids.firebasestorage.app",
+  messagingSenderId: "744521849525",
+  appId: "1:744521849525:web:22457b19d906cde3c97cfc"
 };
 
 // Initialize Firebase
